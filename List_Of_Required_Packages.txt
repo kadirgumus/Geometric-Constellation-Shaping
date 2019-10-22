@@ -1,0 +1,13 @@
+pytorch
+numpy
+matplotlib
+scipy
+
+For the animations:
+IPython
+ffmpeg
+
+If you want to use a GPU you need to type in the following in the command prompt:
+conda install -c anaconda pytorch-gpu 
+
+The GPU implementation is faster starting at size 256 constellations
